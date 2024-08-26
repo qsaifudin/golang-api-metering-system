@@ -8,7 +8,7 @@
 
 ## Project Resources
 - GitHub Repo : https://github.com/qsaifudin/golang-api-metering-system.git
-- Video Demo : 
+- Video Demo : https://youtu.be/3VNMNxAbVBk
 
 ## Overview
 The API Metering System is designed to monitor and control the usage of API endpoints and server storage. It tracks the number of requests made to different API endpoints and the amount of storage used by uploaded files. The system enforces usage limits, where API access is stopped after reaching a specified threshold:
@@ -45,7 +45,7 @@ The API Metering System is designed to monitor and control the usage of API endp
     ```bash
     go run main.go
     ```
-    This will start the server on [`localhost:8080`](http://localhost:8080)
+    This will start the server on `http://localhost:8080`
 
 ## Available Endpoints
 - Available Endpoints
